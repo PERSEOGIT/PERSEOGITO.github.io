@@ -1,10 +1,11 @@
 
 body{
-    background:blue;
+    background:black;
     color:whitesmoke;
     text-align: center;
 }
 h1 {
+	border-radius: 10px;
     background: red;
     text-align: center;
 }
